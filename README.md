@@ -4,3 +4,4 @@ This is a javascript application which lets you track your monthly expenses & bu
 1. What is your total income & expenditure for the month.
 2. How much money you have left in your budget
 3. How much percentage of your income you have spent.
+4. How much percentage of the total income is spent on each expense.
